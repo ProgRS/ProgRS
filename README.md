@@ -11,9 +11,8 @@
 
 [![status](https://github-readme-stats.vercel.app/api?username=ProgRS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](./README.md)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgRS&custom_title=Tecnologias)]
-  (https://github.com/ProgRS)
-
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgRS&custom_title=Tecnologias)](https://github.com/ProgRS)
+  
 
 
 
