@@ -13,7 +13,11 @@
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgRS&custom_title=Tecnologias)](https://github.com/ProgRS)
   
-
+<br>
+  <div>
+  <h2 class="f4 mb-2 text-normal">Linguagens e Ferramentas</h2>
+</div>
+<br>
 
 
 
