@@ -20,7 +20,6 @@
 <br>
 
 [![Angular](https://img.shields.io/badge/-Angular-011C27?style=flat&logo=angular&logoColor=DD403A)&nbsp;](https://github.com/ProgRS)
-
 [![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-011C27?style=flat&logo=linux&logoColor=blue)&nbsp;](https://github.com/walterpaulo/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-011C27?style=flat&logo=springboot)&nbsp;](https://github.com/ProgRS)
 [![Mysql](https://img.shields.io/badge/-Mysql-011C27?style=flat&logo=mysql&logoColor=47a1ee)&nbsp;](https://github.com/ProgRS)
