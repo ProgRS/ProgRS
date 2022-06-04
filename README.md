@@ -19,6 +19,9 @@
 </div>
 <br>
 
+[![Angular](https://img.shields.io/badge/-Angular-011C27?style=flat&logo=angular&logoColor=DD403A)&nbsp;](https://github.com/ProgRS)
+
+
 
 
 
