@@ -21,6 +21,23 @@
 
 [![Angular](https://img.shields.io/badge/-Angular-011C27?style=flat&logo=angular&logoColor=DD403A)&nbsp;](https://github.com/ProgRS)
 
+[![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-011C27?style=flat&logo=linux&logoColor=blue)&nbsp;](https://github.com/walterpaulo/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-011C27?style=flat&logo=springboot)&nbsp;](https://github.com/ProgRS)
+[![Mysql](https://img.shields.io/badge/-Mysql-011C27?style=flat&logo=mysql&logoColor=47a1ee)&nbsp;](https://github.com/ProgRS)
+[![Spring](https://img.shields.io/badge/-Spring-011C27?style=flat&logo=spring)&nbsp;](https://github.com/ProgRS)
+[![BootStrap](https://img.shields.io/badge/-Bootstrap-011C27?style=flat&logo=bootstrap)&nbsp;](https://github.com/ProgRS)
+[![Linux](https://img.shields.io/badge/-Linux-011C27?style=flat&logo=linux&logoColor=ffffff)&nbsp;](https://github.com/ProgRS)
+[![Java](https://img.shields.io/badge/-Java-011C27?style=flat&logo=Java)&nbsp;](https://github.com/ProgRS)
+[![React](https://img.shields.io/badge/-React-011C27?style=flat&logo=react)&nbsp;](https://github.com/ProgRS)
+[![HTML](https://img.shields.io/badge/-HTML-011C27?style=flat&logo=HTML5)&nbsp;](https://github.com/ProgRS)
+[![Git](https://img.shields.io/badge/-Git-011C27?style=flat&logo=git)&nbsp;](https://github.com/ProgRS)
+[![CSS](https://img.shields.io/badge/-CSS-011C27?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;](https://github.com/ProgRS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-011C27?style=flat&logo=javascript)&nbsp;](https://github.com/ProgRS)
+[![Node.js](https://img.shields.io/badge/-Node.js-011C27?style=flat&logo=node.js)&nbsp;](https://github.com/ProgRS)
+[![GitHub](https://img.shields.io/badge/-GitHub-011C27?style=flat&logo=github)&nbsp;](https://github.com/ProgRS)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-011C27?style=flat&logo=postgresql)&nbsp;](https://github.com/ProgRS)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-011C27?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;](https://github.com/ProgRS)
+
 
 
 
