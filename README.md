@@ -1,4 +1,13 @@
-### Hi there 👋
+##
+
+## Olá! Eu sou o Luís 
+
+<br>
+
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-fernando-trindade-8a1a66106/)
+
+
+<br><br>
 
 <!--
 **ProgRS/ProgRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
