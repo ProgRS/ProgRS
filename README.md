@@ -20,6 +20,10 @@
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
+             <a href="https://twitter.com/QravaTTacker" title="Ir para o Twitter?">
+                  <img alt="Badge Twitter"
+                  src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter"/>
+            </a>
             
             <a href="https://www.youtube.com/@qravattacker" title="Ir para o YouTube?">
                   <img alt="Badge YouTube"
