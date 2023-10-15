@@ -25,7 +25,7 @@
      
 
 <!-- RESUMO -->
-<div>
+
       <p align="justify">
             <em><strong>Olá como vai?</strong></em><br>
             Me chamo <del>Luís </del> <ins>progrs</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong><br/>
