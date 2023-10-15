@@ -35,12 +35,11 @@
 </div>
 
 ```js
-const qravattacker {
-      name: "Cristian Pessotto",
-      age: 21,
-      job: "Fullstack",
-      address: "Paraná",
-      languages: ["PHP", "Javascript", "Java"]
+const progrs {
+      name: "Luís Fernando Trindade",      
+      job: "Analista de Sistemas",
+      address: "Rio Grande do Sul",
+      languages: ["Java",Javascript", "Dart"]
 };
 ```
 
