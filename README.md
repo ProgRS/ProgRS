@@ -19,13 +19,34 @@
             <a href="https://www.instagram.com/luis.trindade.progrs/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
-            </a>           
-           
+            </a>
+            
+            <a href="https://www.youtube.com/channel/UC85gs2PvAQVU5JCnCmRVxLw" title="Ir para o YouTube?">
+                  <img alt="Badge YouTube"
+                  src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
+            </a>
       </div>
-     
+      <!-- SNAKE -->
+      <div align="center">
+            <a href="#none">
+                  <img alt="Snake" title="Snake commits" 
+                  src="https://github.com/ProgRs/ProgRs/blob/output/github-contribution-grid-snake-dark.svg"/>
+            </a>
+      </div>
+      <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
+</div>
+
+```js
+const qravattacker {
+      name: "Luís Trindade",      
+      job: "Analista de Sistemas",
+      address: "Rio Grande do Sul",
+      languages: ["Java", "Javascript", "Dart"]
+};
+```
 
 <!-- RESUMO -->
-
+<div>
       <p align="justify">
             <em><strong>Olá como vai?</strong></em><br>
             Me chamo <del>Luís </del> <ins>progrs</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos</strong><br/>
