@@ -8,23 +8,20 @@
       <!-- ESCRITA DINÂMICA -->
       <a href="#none" title=" ">
             <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+Java;Fullstack+Web";"Professor+Progamação+Sistemas+Mobile"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+Java;Fullstack+Web;Professor+Progamação+Sistemas+Mobile";/>
       </a>
       <!-- REDES SOCIAIS -->
       <div align="center">
-            <a href="https://br.linkedin.com/in/cristian-pessotto-351426255" title="Ir para o LinkedIn?">
+            <a href="https://www.linkedin.com/in/luis-fernando-trindade-programador/" title="Ir para o LinkedIn?">
                   <img alt="Badge LinkedIn"
                   src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
             </a>
-            <a href="https://www.instagram.com/qravattacker/" title="Ir para o Instagram?">
+            <a href="https://www.instagram.com/luis.trindade.progrs/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
-            <a href="https://twitter.com/QravaTTacker" title="Ir para o Twitter?">
-                  <img alt="Badge Twitter"
-                  src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter"/>
-            </a>
-            <a href="https://www.youtube.com/@qravattacker" title="Ir para o YouTube?">
+            
+            <a href="https://www.youtube.com/channel/UC85gs2PvAQVU5JCnCmRVxLw" title="Ir para o YouTube?">
                   <img alt="Badge YouTube"
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
             </a>
