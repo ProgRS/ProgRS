@@ -3,7 +3,7 @@
       <!-- CABEÇALHO -->
       <a href="#repo" title=" ">
             <img alt="Capsule Render" width="100%"
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=QravaTTacker&fontSize=50&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=ProgRS&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
       <a href="#none" title=" ">
