@@ -3,25 +3,28 @@
       <!-- CABEÇALHO -->
       <a href="#repo" title=" ">
             <img alt="Capsule Render" width="100%"
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=Luis&fontSize=50&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=header&text=QravaTTacker&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
       <a href="#none" title=" ">
             <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Java+e+Javascript;Fullstack+Web"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+Web"/>
       </a>
       <!-- REDES SOCIAIS -->
       <div align="center">
-            <a href="https://www.linkedin.com/in/luis-fernando-trindade-programador/" title="Ir para o LinkedIn?">
+            <a href="https://br.linkedin.com/in/cristian-pessotto-351426255" title="Ir para o LinkedIn?">
                   <img alt="Badge LinkedIn"
                   src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
             </a>
-            <a href="https://www.instagram.com/luis.trindade.progrs/" title="Ir para o Instagram?">
+            <a href="https://www.instagram.com/qravattacker/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
-            
-            <a href="https://www.youtube.com/channel/UC85gs2PvAQVU5JCnCmRVxLw" title="Ir para o YouTube?">
+            <a href="https://twitter.com/QravaTTacker" title="Ir para o Twitter?">
+                  <img alt="Badge Twitter"
+                  src="https://img.shields.io/badge/twitter-14151f?style=for-the-badge&logo=twitter"/>
+            </a>
+            <a href="https://www.youtube.com/@qravattacker" title="Ir para o YouTube?">
                   <img alt="Badge YouTube"
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
             </a>
@@ -30,7 +33,7 @@
       <div align="center">
             <a href="#none">
                   <img alt="Snake" title="Snake commits" 
-                  src="https://github.com/ProgRs/ProgRs/blob/output/github-contribution-grid-snake-dark.svg"/>
+                  src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-contribution-grid-snake-dark.svg"/>
             </a>
       </div>
       <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
@@ -38,12 +41,14 @@
 
 ```js
 const qravattacker {
-      name: "Luís Trindade",      
-      job: "Analista de Sistemas",
-      address: "Rio Grande do Sul",
-      languages: ["Java", "Javascript", "Dart"]
+      name: "Cristian Pessotto",
+      age: 21,
+      job: "Fullstack",
+      address: "Paraná",
+      languages: ["PHP", "Javascript", "Java"]
 };
 ```
+
 
 <!-- RESUMO -->
 <div>
