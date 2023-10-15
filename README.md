@@ -8,7 +8,7 @@
       <!-- ESCRITA DINÂMICA -->
       <a href="#none" title=" ">
             <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+e+PHP;Fullstack+Web"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+Javascript+Java;Fullstack+Web";"Professor+Progamação+Sistemas+Mobile"/>
       </a>
       <!-- REDES SOCIAIS -->
       <div align="center">
