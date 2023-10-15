@@ -18,8 +18,7 @@
             <a href="https://www.instagram.com/luis.trindade.progrs/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
-            </a>
-            
+            </a>            
             <a href="https://www.youtube.com/channel/UC85gs2PvAQVU5JCnCmRVxLw" title="Ir para o YouTube?">
                   <img alt="Badge YouTube"
                   src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
