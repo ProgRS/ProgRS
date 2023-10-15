@@ -15,7 +15,7 @@
                   <img alt="Badge LinkedIn"
                   src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
             </a>
-            <a href="https://www.instagram.com/qravattacker/" title="Ir para o Instagram?">
+            <a href="https://www.instagram.com/luis.trindade.progrs/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
